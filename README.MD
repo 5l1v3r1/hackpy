@@ -1,8 +1,7 @@
 ﻿![Python](https://www.python.org/static/img/python-logo@2x.png)
 # `pip install hackpy`  :bomb:
 
-# HackPy 0.1.7 / BETA!!!
-# The project is no longer maintained
+# HackPy 0.1.7 / The project is no longer maintained
 
 ## [Donate](https://www.donationalerts.com/r/limerboy)
 
